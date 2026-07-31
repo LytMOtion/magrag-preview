@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img">
+  <defs><linearGradient id="lg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22252B"/><stop offset="1" stop-color="#101215"/></linearGradient></defs>
+  <rect width="800" height="800" fill="url(#lg)"/>
+  <rect x="0" y="624" width="800" height="176" fill="#0B0C0E"/>
+  <!-- rack -->
+  <rect x="496" y="96" width="16" height="528" fill="#0B0C0E"/>
+  <rect x="688" y="96" width="16" height="528" fill="#0B0C0E"/>
+  <rect x="480" y="240" width="240" height="12" rx="6" fill="#2E3238"/>
+  <!-- towel on rack -->
+  <rect x="560" y="248" width="70" height="150" rx="10" fill="#4E5A44"/>
+  <circle cx="595" cy="256" r="9" fill="#0B0C0E" stroke="#D7261E" stroke-width="2.5"/>
+  <!-- athlete silhouette -->
+  <g fill="#000" opacity="0.85">
+    <circle cx="256" cy="272" r="26"/>
+    <rect x="234" y="304" width="44" height="110" rx="20"/>
+    <rect x="186" y="336" width="60" height="18" rx="9" transform="rotate(-18 216 336)"/>
+    <rect x="266" y="320" width="60" height="18" rx="9" transform="rotate(14 296 320)"/>
+  </g>
+  
+  <g font-family="Helvetica,Arial,sans-serif">
+    <rect x="250" y="756" width="300" height="26" rx="13" fill="rgba(0,0,0,0.55)"/>
+    <text x="400" y="774" font-size="11" letter-spacing="1.5" fill="#FFD166" text-anchor="middle">PLACEHOLDER — TOWEL IN REACH MID-WORKOUT</text>
+  </g>
+</svg>

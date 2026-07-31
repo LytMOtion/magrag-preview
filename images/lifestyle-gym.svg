@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img">
+  <defs><linearGradient id="lg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22252B"/><stop offset="1" stop-color="#101215"/></linearGradient></defs>
+  <rect width="1600" height="900" fill="url(#lg)"/>
+  <rect x="0" y="702" width="1600" height="198" fill="#0B0C0E"/>
+  <!-- rack -->
+  <rect x="992" y="108" width="16" height="594" fill="#0B0C0E"/>
+  <rect x="1376" y="108" width="16" height="594" fill="#0B0C0E"/>
+  <rect x="960" y="270" width="480" height="12" rx="6" fill="#2E3238"/>
+  <!-- towel on rack -->
+  <rect x="1120" y="279" width="70" height="150" rx="10" fill="#4E5A44"/>
+  <circle cx="1155" cy="287" r="9" fill="#0B0C0E" stroke="#D7261E" stroke-width="2.5"/>
+  <!-- athlete silhouette -->
+  <g fill="#000" opacity="0.85">
+    <circle cx="512" cy="306" r="26"/>
+    <rect x="490" y="342" width="44" height="110" rx="20"/>
+    <rect x="442" y="378" width="60" height="18" rx="9" transform="rotate(-18 472 378)"/>
+    <rect x="522" y="360" width="60" height="18" rx="9" transform="rotate(14 552 360)"/>
+  </g>
+  
+  <g font-family="Helvetica,Arial,sans-serif">
+    <rect x="650" y="856" width="300" height="26" rx="13" fill="rgba(0,0,0,0.55)"/>
+    <text x="800" y="874" font-size="11" letter-spacing="1.5" fill="#FFD166" text-anchor="middle">PLACEHOLDER — ATHLETE TRAINING WITH MAGRAG IN REAL GYM</text>
+  </g>
+</svg>
